@@ -243,7 +243,7 @@ if selected == 'EDA':
 
 if selected == 'Data preprocessing':
 
-    st.title('Data Preprocessing')
+    
 
     d1 =df.copy()
 
